@@ -1,0 +1,16 @@
+C:\Users\DORA BABU\Desktop\work space\Demo\Phase2Projecct\bin\Debug\Phase2Projecct.exe.config
+C:\Users\DORA BABU\Desktop\work space\Demo\Phase2Projecct\bin\Debug\Phase2Projecct.exe
+C:\Users\DORA BABU\Desktop\work space\Demo\Phase2Projecct\bin\Debug\Phase2Projecct.pdb
+C:\Users\DORA BABU\Desktop\work space\Demo\Phase2Projecct\obj\Debug\Phase2Projecct.csproj.AssemblyReference.cache
+C:\Users\DORA BABU\Desktop\work space\Demo\Phase2Projecct\obj\Debug\Phase2Projecct.csproj.SuggestedBindingRedirects.cache
+C:\Users\DORA BABU\Desktop\work space\Demo\Phase2Projecct\obj\Debug\Phase2Projecct.csproj.CoreCompileInputs.cache
+C:\Users\DORA BABU\Desktop\work space\Demo\Phase2Projecct\obj\Debug\Phase2Projecct.exe
+C:\Users\DORA BABU\Desktop\work space\Demo\Phase2Projecct\obj\Debug\Phase2Projecct.pdb
+C:\Users\DORA BABU\Desktop\work space\Demo\Project\Phase2Projecct\bin\Debug\Phase2Projecct.exe.config
+C:\Users\DORA BABU\Desktop\work space\Demo\Project\Phase2Projecct\bin\Debug\Phase2Projecct.exe
+C:\Users\DORA BABU\Desktop\work space\Demo\Project\Phase2Projecct\bin\Debug\Phase2Projecct.pdb
+C:\Users\DORA BABU\Desktop\work space\Demo\Project\Phase2Projecct\obj\Debug\Phase2Projecct.csproj.AssemblyReference.cache
+C:\Users\DORA BABU\Desktop\work space\Demo\Project\Phase2Projecct\obj\Debug\Phase2Projecct.csproj.SuggestedBindingRedirects.cache
+C:\Users\DORA BABU\Desktop\work space\Demo\Project\Phase2Projecct\obj\Debug\Phase2Projecct.csproj.CoreCompileInputs.cache
+C:\Users\DORA BABU\Desktop\work space\Demo\Project\Phase2Projecct\obj\Debug\Phase2Projecct.exe
+C:\Users\DORA BABU\Desktop\work space\Demo\Project\Phase2Projecct\obj\Debug\Phase2Projecct.pdb
